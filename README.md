@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soha</h1>
 <h3 align="center">A consistent web developer skilled in creating user interfaces, implementing features with error free code, and resolving issues. willing to improve skills with emerging and trending innovation.</h3>
 
-- 🔭 I’m currently working on **react,Next , Express, Node, MongoDB**
+- 🔭 I’m currently working on **React,Next , Express, Node, MongoDB**
 
 - 👯 I’m looking to collaborate on **website projects**
 
