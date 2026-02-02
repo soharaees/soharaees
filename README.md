@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soha</h1>
-<h3 align="center">A consistent web developer skilled in creating user interfaces, implementing features with error free code, and resolving issues. willing to improve skills with emerging and trending innovation.</h3>
+<h3 align="center">A passionate MERN Stack Developer who enjoys building modern, scalable, and user-focused web applications. I specialize in crafting clean and responsive user interfaces, developing efficient backend systems, and delivering reliable, error-free features. I’m always eager to learn, explore emerging technologies, and apply innovative solutions to create impactful digital experiences.</h3>
 
 - 🔭 I’m currently working on **React,Next , Express, Node, MongoDB**
 
