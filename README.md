@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Soha</h1>
 <h3 align="center">A passionate MERN Stack Developer who enjoys building modern, scalable, and user-focused web applications. I specialize in crafting clean and responsive user interfaces, developing efficient backend systems, and delivering reliable, error-free features. I’m always eager to learn, explore emerging technologies, and apply innovative solutions to create impactful digital experiences.</h3>
 
-- 🔭 I’m currently working on **React,Next , Express, Node, MongoDB**
-
-- 👯 I’m looking to collaborate on **website projects**
-
-- 📫 How to reach me **souharaees@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/soha- raees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/soha- raees" height="30" width="40" /></a>
+  <a href="mailto:souharaees@gmail.com" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"
+       alt="email"
+       height="30"
+       width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
