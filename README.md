@@ -5,9 +5,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/soha- raees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/soha- raees" height="30" width="40" /></a>
-  <a href="mailto:souharaees@gmail.com" target="_blank">
+  <a href="mailto:your-email@example.com">
   <img align="center"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
        alt="email"
        height="30"
        width="40" />
