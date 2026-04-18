@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Soha</h1>
 <h3 align="center">A passionate MERN Stack Developer who enjoys building modern, scalable, and user-focused web applications. I specialize in crafting clean and responsive user interfaces, developing efficient backend systems, and delivering reliable, error-free features. I’m always eager to learn, explore emerging technologies, and apply innovative solutions to create impactful digital experiences.</h3>
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
