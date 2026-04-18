@@ -9,7 +9,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soha-raees/)
 [![email](https://img.shields.io/badge/email-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](mailto:souharaees@gmail.com)
 
-## Languages and Tools
+## 🔨 Languages and Tools
 
 <p align="left">
 
