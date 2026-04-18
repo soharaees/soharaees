@@ -4,14 +4,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/soha- raees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/soha- raees" height="30" width="40" /></a>
-  <a href="mailto:your-email@example.com">
-  <img align="center"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-       alt="email"
-       height="30"
-       width="40" />
-</a>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
